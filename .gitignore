@@ -1,3 +1,7 @@
 /build
 .gradle
 frontend/node_modules
+
+# IDE & local data
+.idea/
+backend/data/
